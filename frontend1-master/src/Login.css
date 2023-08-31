@@ -1,0 +1,80 @@
+/*.login {
+    background-image: url('C:/Users/SOWMIYA/Desktop/test/frontend/public/hollow3.jpg');
+    height:100%;
+    width:100%;
+    background-repeat:no-repeat;
+}*/
+      
+  
+.main{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-color: grey;
+
+}
+
+.sub-main{
+    display:flex;
+    justify-content: center;
+    height: 550px;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px rgb(54, 53, 54);
+    padding-top: 30px;
+    padding-right: 10s0px;
+    border-radius: 60px;
+    background-color: white;
+
+}
+
+.wrapper {
+    position:relative;
+  }
+  
+  .icon {
+    height: 1.5rem;
+    width: 1.5rem;
+    padding: 4px;
+    position: absolute;
+    box-sizing:border-box;
+    top:50%;
+    left:2px;
+    transform: translateY(-50%);
+  }
+  
+  .input {
+    height: 25px;
+    
+    box-sizing:border-box;
+    padding-left: 1.5rem;
+    
+  }
+.img{
+    padding-top:20px;
+    justify-content: center;
+    display:flex;
+}
+.container-image{
+    background-color: #dfdddd;
+    border-radius:150px;
+    align-items:center;
+    display:flex;
+    height:115px;
+    width:115px;
+}
+.profile{
+    height:115px;
+    width:115px;
+    /* border-radius:130px; */
+
+}
+.button{
+    width:120px;
+    height:35px;
+    border-radius: 40px;
+    background-color: rgb(2, 2, 65);
+    color:white;
+    font-size:20px;
+    border:none;
+}

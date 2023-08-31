@@ -1,0 +1,12 @@
+.location{
+    width:10px;
+    height:10px;
+    background-size: 10px;
+}
+.contact{
+    margin-right: 20px;
+    align-items: center;
+}
+.top{
+    padding-top: 10px;
+}

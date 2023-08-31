@@ -1,0 +1,56 @@
+.history img
+{
+    height:600px;
+    width: 700px;
+    float:left;
+    margin: 0px;
+    padding: 0px;
+}
+.history
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    text-align:center;
+    gap:7%;
+    margin:2%;
+}
+
+.vission
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    text-align:center;
+    gap:7%;
+    margin:0%;
+}
+
+.vision img
+{
+height:1000px;
+width:1000px;
+}
+.mission img
+{
+height:250px;
+width:500px;
+}
+.mission
+{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    text-align:center;
+    gap:7%;
+    margin:2%;
+}
+.navbar
+{
+    background-color:white;
+    margin: 0%;
+    text-align:center;
+}
+.about1{
+    background-color: #EAE7DC;
+}

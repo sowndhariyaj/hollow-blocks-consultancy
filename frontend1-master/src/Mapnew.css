@@ -1,0 +1,24 @@
+*{
+    background-color: #EAE7DC;
+  
+  
+  }
+  .call2{
+    background-color: azure;
+    margin:0px;
+    align-items: center;
+  }
+  .call1{
+    margin-left: 50px;
+  }
+  .call3{
+      display: flex;
+    }
+  .call4{
+    /* margin-left: 400px; */
+    height: 100px;
+  }
+  .call1 img{
+    display: flex;
+  }
+  
